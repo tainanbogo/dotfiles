@@ -61,6 +61,6 @@
   defaultBranch = master
 [user]
 	email = tainanbogo@gmail.com
-	name = Tainan Bogo
+	name = tainan bogo
 [credential]
 	helper = cache
